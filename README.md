@@ -1,7 +1,15 @@
 # :wave: The Basics of GitHub 
+<<<<<<< HEAD
 Liam1
 first change
+=======
+
+Some more things
+
+>>>>>>> a12bea1411a02ec27a827e3c9000b3930c394317
 ## Berg Addendum
+
+
 
 Please read through all of this in order to get an idea of what you will be doing with github this year.  You do not need to understand everything, but you will get a good workflow in order to complete our assignments.  
 
